@@ -7,13 +7,13 @@
 Meu nome é Mozart Maia,
 Sou programador e estudante de ADS no IFRN.
 
-- 🔭 Atualmente estou trabalhando na Unicat-SUS, desenvolvendo sistemas web em Django/React etc
+- 🔭 Atualmente estou trabalhando na DNA Center, desenvolvendo sistemas web com React/Node etc
 
-+ 🌱 Manjo mais de web com JS, Python, um pouco de sistemas distribuídos e langs funcionais (λ)
++ 🌱 Meu conhecimento é mais focado em JS, Python, um pouco de sistemas distribuídos e langs funcionais (λ)
 
 ! 📫 Você pode me encontrar aqui ou no meu email: mozartmaia89@gmail.com.
 
-# 💬 Fique a vontade para me contatar com sugestões, dúvidas, etc
+# 💬 Fique a vontade para me contatar com sugestões, dúvidas ou se só quiser bater um papo
 
 >>> print(list(map(lambda i: "Fizz"*(i%3==0)+"Buzz"*(i%5==0) or str(i), range(1,101))))
 ```
