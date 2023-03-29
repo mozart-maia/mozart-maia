@@ -7,7 +7,7 @@
 Meu nome é Mozart Maia,
 Sou programador e estudante de ADS no IFRN.
 
-- 🔭 Atualmente estou trabalhando na DNA Center, desenvolvendo sistemas web com React/Node/NextJS
+- 🔭 Atualmente estou trabalhando na DNA Center, desenvolvendo sistemas web com React/Typescript/Node/NextJS/Firebase etc
 
 + 🌱 Meu conhecimento é mais focado em web, JS, Python e um pouco de langs funcionais (λ)
 
