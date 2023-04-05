@@ -1,4 +1,4 @@
-<img align="left" width="150" src="https://media2.giphy.com/media/FvW5MXXpOr6A4eYyUd/giphy.gif"/>
+
 
 
 ### Greetings, Traveler! 👋🧙
