@@ -32,10 +32,15 @@ Hello, my name is Mozart and I'm currently working as a full stack web developer
 <img src="https://img.shields.io/badge/Selenium-05122A?style=flat&logo=selenium" alt="selenium Badge" height="25">&nbsp;
 
 
+
 ## GitHub Analytics
 <div>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mozart-maia&theme=dark">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozart-maia&theme=dark&layout=compact&langs_count=5">
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=major&theme=nord_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=major&theme=nord_dark)  
+
 
 
   ```
