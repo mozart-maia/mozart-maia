@@ -7,8 +7,8 @@
 Hello, my name is Mozart and I'm currently working as a full stack web developer at DNA Center. I love tech, and I'm constantly looking to learn more about new languages and technologies. I'm currently studying systems analysis and development at IFRN (last year of graduation). I've already learned something about web and desktop development using Node.js, React, Typescript, Tailwind, Express and Electron. Also I helped to develop some tools for webscrapping and automation via browser with Selenium (Javascript and Python), enterprise dashboards with Django and other small tools for companies I worked. 
 
 ## About me!
-🎓&nbsp;Graduating in systems analysis and development at IFRN****
-<br/>🌱&nbsp;Learning about **web development and distributed systems**
+🎓&nbsp;**Graduating in systems analysis and development at IFRN**
+<br/>🌱&nbsp;Learning about **web development, mobile and distributed systems**
 <br/>💡&nbsp; I'm interested about **programming, games and books**
 <br/>🤝&nbsp; I like to collaborate in **new projects**
 <br/>😄&nbsp; Pronouns **he/his**
