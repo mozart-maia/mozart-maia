@@ -44,8 +44,10 @@ Hello, my name is Mozart and I'm currently working as a full stack web developer
 
 
   ```
-    Python 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)] on win32
+    Python 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0] on linux
     Type "help", "copyright", "credits" or "license" for more information.
      >>> print(list(map(lambda i: "Fizz"*(i%3==0)+"Buzz"*(i%5==0) or str(i), range(1,101))))
-
+     >>> fatores = lambda number: [x for x in range(2,number) if number % x == 0]
+     >>> primos_under_1000 = [x for x in range(2,1000) if fatores(x) == []]
+     >>> print(primos_under_1000)
 ```
