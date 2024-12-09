@@ -4,13 +4,13 @@
 <a href="https://www.linkedin.com/in/mozart-maia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 ## 👋 Hi there!
-Hello, my name is Mozart and I'm currently working as a full stack web developer at DNA Center. I love tech, and I'm constantly looking to learn more about new languages and technologies. I'm a graduate of systems analysis and software development at IFRN (Brasil - Natal/RN). I've already learned about web and desktop development using Node.js, React, Typescript, Tailwind, Express and Electron. Also I helped to develop some tools for webscrapping and automation via browser with Selenium (Javascript and Python), enterprise dashboards with Django and other tools for companies I worked. 
+Hello, my name is Mozart and I'm currently working as a full stack web developer at DNA Center. I love tech, and I'm constantly looking to learn more about new languages and technologies. I have a degree in systems analysis and software development at IFRN (Federal institute in Brasil - Natal/RN). I've already learned about web and desktop development using Node.js, React, Typescript, Tailwind, Express and Electron. Also I helped to develop some tools for webscrapping and automation via browser with Selenium (Javascript and Python), enterprise dashboards with Django and other tools for companies I worked. I am currently studying more about distributed systems and taking a course on embedded systems.
 
 ## About me!
 🎓&nbsp;**Systems analysis and software development at IFRN**
-<br/>🌱&nbsp;Learning about **web development, mobile and distributed systems**
-<br/>💡&nbsp; I'm interested about **programming, games and books**
-<br/>🤝&nbsp; I like to collaborate in **new projects**
+<br/>🌱&nbsp;Learning about **web development, mobile, distributed and embedded systems**
+<br/>💡&nbsp; I'm interested about **programming in general, games and books (favorite book: Blood Meridian. favorite game: Shadow of Collossus)**
+<br/>🤝&nbsp; I like to collaborate in **new projects** and learning how everything works
 <br/>😄&nbsp; Pronouns **he/his**
 <br/>📫&nbsp;Reach me [mozartmaia89@gmail.com](mailto:mozartmaia89@gmail.com) 
 
